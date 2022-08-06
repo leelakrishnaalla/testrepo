@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 4871-BA5B
-
- Directory of C:\Users\Dharma\OneDrive\Documents\Nani\samplegitproj
-
-08/06/2022  05:16 PM    <DIR>          .
-08/06/2022  05:16 PM    <DIR>          ..
-08/06/2022  05:16 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   7,870,148,608 bytes free
+changes done
